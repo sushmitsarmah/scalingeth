@@ -12,9 +12,9 @@ export function App() {
 
   return (
     <>
-      <h1>OP Starter Project</h1>
+      <img src="landing_page.jpg"/>
+      {/* <h1>OP Starter Project</h1>
 
-      {/** @see https://www.rainbowkit.com/docs/connect-button */}
       <ConnectButton />
 
       {isConnected && (
@@ -23,7 +23,7 @@ export function App() {
           <Attestooooooor />
           <hr />
         </>
-      )}
+      )} */}
     </>
   );
 }
