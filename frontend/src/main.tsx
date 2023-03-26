@@ -22,7 +22,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
           withGlobalStyles
           withNormalizeCSS
           theme={{
-            colorScheme: 'light',
+            colorScheme: 'dark',
             colors: {
               // Add your color
               deepBlue: ['#E9EDFC', '#C1CCF6', '#99ABF0' /* ... */],
